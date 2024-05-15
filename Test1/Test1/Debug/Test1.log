@@ -1,0 +1,3 @@
+﻿  Test1.cpp
+C:\Cpp\Test1\Test1\Test1.cpp(21,1): warning C4326: return type of 'wmain' should be 'int' instead of 'void'
+  Test1.vcxproj -> C:\Cpp\Test1\Debug\Test1.exe
